@@ -28,5 +28,5 @@ public class ConsultarUser extends AppCompatActivity {
         textViewemail.setText("email");
 
     }
-    
+
 }
